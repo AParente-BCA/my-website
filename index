@@ -1,22 +1,49 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Welcome</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Business Creative Agency</title>
   <style>
     body {
-      font-family: sans-serif;
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(120deg, #0f2027, #203a43, #2c5364);
+      color: white;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
       text-align: center;
-      margin: 5rem;
     }
     h1 {
-      color: #4CAF50;
+      font-size: 3rem;
+      margin-bottom: 0.5rem;
+    }
+    p {
+      font-size: 1.3rem;
+      max-width: 600px;
+      margin-bottom: 2rem;
+    }
+    nav a {
+      margin: 0 10px;
+      color: #00ffc3;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
     }
   </style>
 </head>
 <body>
-  <h1>Hello World 👋</h1>
-  <p>This is your first GitHub-hosted website!</p>
+  <h1>Welcome to the Business Creative Agency 🚀</h1>
+  <p>We turn revolutionary patents into thriving startups. Explore who we are and what we do.</p>
+  <nav>
+    <a href="about.html">About Us</a>
+    <a href="services.html">Services</a>
+    <a href="contact.html">Contact</a>
+  </nav>
 </body>
 </html>
