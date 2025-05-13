@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Services</title>
+</head>
+<body>
+  <h1>Our Services</h1>
+  <ul>
+    <li>Patent Market Analysis</li>
+    <li>Startup Formation</li>
+    <li>Investor Matching</li>
+    <li>Go-to-Market Strategy</li>
+  </ul>
+  <a href="index.html">← Back to Home</a>
+</body>
+</html>
