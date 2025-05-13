@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About Us</title>
+</head>
+<body>
+  <h1>About Us</h1>
+  <p>We are a startup studio transforming patents into businesses. We believe in innovation, integrity, and impact.</p>
+  <a href="index.html">← Back to Home</a>
+</body>
+</html>
